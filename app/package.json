@@ -6,7 +6,8 @@
   "main": "./main.prod.js",
   "author": {
     "name": "Blockstack PBC",
-    "url": "https://www.blockstack.org"
+    "url": "https://www.blockstack.org",
+    "email": "support@blockstack.org"
   },
   "scripts": {
     "electron-rebuild": "node -r babel-register ../internals/scripts/ElectronRebuild.js",

@@ -85,7 +85,8 @@
   },
   "author": {
     "name": "Blockstack PBC",
-    "url": "https://www.blockstack.org"
+    "url": "https://www.blockstack.org",
+    "email": "support@blockstack.org"
   },
   "license": "MIT",
   "keywords": [
